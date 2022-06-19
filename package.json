@@ -12,7 +12,6 @@
 		"cors": "^2.8.5",
 		"dotenv": "^8.2.0",
 		"express": "^4.16.4",
-		"https-localhost": "^4.7.1",
 		"mongoose": "^6.4.0"
 	},
 	"repository": {
